@@ -1,0 +1,19 @@
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Local application data
+*.db
+
+# Test and coverage output
+.coverage
+htmlcov/
